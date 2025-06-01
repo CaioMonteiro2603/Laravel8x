@@ -1,3 +1,3 @@
-# Atualmente, estou trabalhando com PHP e Laravel (versão 8). Como nunca havia tido contato com essa linguagem e framework antes, assumi a tarefa de criar uma aplicação do zero utilizando essas tecnologias para aprender sua sintaxe e as boas práticas de desenvolvimento.
+## Atualmente, estou trabalhando com PHP e Laravel (versão 8). Como nunca havia tido contato com essa linguagem e framework antes, assumi a tarefa de criar uma aplicação do zero utilizando essas tecnologias para aprender sua sintaxe e as boas práticas de desenvolvimento.
 
-# A ideia é evoluir essa aplicação semanalmente, conforme meu tempo livre permitir, sempre seguindo os princípios da arquitetura limpa.
+## A ideia é evoluir essa aplicação semanalmente, conforme meu tempo livre permitir, sempre seguindo os princípios da arquitetura limpa.
